@@ -1,0 +1,9 @@
+{
+    "products_2" : [
+        {"ten":"sản phẩm 1","mota":"Mô tả sản phảm", "gia":"1 ty" },
+        {"ten":"sản phảm 2","mota":"Mô tả sản phảm", "gia":"1 ty" },
+        {"ten":"sản phẩm 3","mota":"Mô tả sản phảm", "gia":"1 ty" },
+        {"ten":"sản phẩm 4", "mota":"Mô tả sản phảm", "gia":"1 ty" },
+        {"ten":"sản phẩm 5", "mota":"Mô tả sản phảm", "gia":"1 ty"}
+    ]
+}
